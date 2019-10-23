@@ -1,0 +1,126 @@
+body{
+    background: #EDF0F2;
+    padding: 0;
+    border: 0;
+    margin: 0 auto;
+    vertical-align: baseline;
+    -webkit-box-sizing: border-box;
+}
+div{
+    display: block;
+}
+h2{
+    font-size: 36px;
+    font-weight: 400;
+    padding-bottom: 22px;
+}
+p{
+    font-size: 14px;
+    line-height: 1.71;
+}
+.upload-img{
+    margin: 0;
+}
+.img{
+    float: top;
+    padding: 30px;
+    height: 330px;
+}
+.img1{
+    float: left;
+    border-style: wave;
+}
+.img2{
+    float: right;
+    border-style: wave;
+}
+.upload-button{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 60px;
+    float: bottom;
+}
+.button1{
+    margin-left: 30px;
+    float: left;
+}
+.button2{
+    margin-right: 30px;
+    float: right;
+}
+.submit{
+    margin-left: 350px;
+}
+.demo-container{
+    -webkit-font-smoothing: antialiased;
+    width: 1440px;
+    height: 870px;
+    background: white;
+    margin: 0 auto;
+    display: table;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.demo-face{
+    min-width: 1140px;
+    width: 1140px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 70px 0 82px;
+}
+.demo-title{
+    text-align: center;
+    color: #3e3e3e;
+    padding-bottom: 40px;
+}
+.content{
+    width: 1140px;
+    height: 572px;
+}
+#demo-img{
+    border-radius: 4px;
+    background-color: #f6f7fb;
+    float: left;
+    width: 758px;
+    height: 572px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    font-family: PingFangSC,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,Arial,sans-serif;
+    box-sizing: border-box;
+    line-height: 1;
+    display: block;
+}
+#respond{
+    background-color: white;
+    float: right;
+    width: 350px;
+    height: 572px;
+    border: solid #DDDDDD 1px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    font-family: PingFangSC,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,Arial,sans-serif;
+    box-sizing: border-box;
+    line-height: 2;
+    display: block;
+}
+.json{
+    width: 350px;
+    height: 512px;
+    padding: 10px;
+}
+.subtitle{
+    background-color: #f6f7fb;
+    color: #00B2E5;
+    font-size: 2em;
+    font-family: PingFangSC,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,Arial,sans-serif;
+    width:348px;
+    height: 60px;
+    text-align: center;
+}
+.tab-container{
+    border: outset #DDDDDD;
+    margin: 0;
+    width: 348px;
+    height:60px;
+    float:top;
+}
